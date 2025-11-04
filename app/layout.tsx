@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Stonks",
+  title: "Signalist",
   description:
     "Stock app meant for showing trends and tracking stocks using AI",
 };
